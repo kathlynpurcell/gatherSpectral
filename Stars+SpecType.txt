@@ -1,0 +1,30 @@
+Sun, 						.noCon
+Sirius, 						A1V+DA
+Canopus, 						A9II C
+Rigil Kentaurus & Toliman, 						G2V C
+Arcturus, 						K1.5II
+Vega, 						A0Va C
+Capella, 						G3III:
+Rigel, 						B8Iae
+Procyon, 						F5IV-V
+Achernar, 						B6Vpe
+Betelgeuse, 						M1-M2I
+Hadar, 						B1III
+Altair, 						A7Vn C
+Acrux, 						B0.5IV
+Aldebaran, 						K5+III
+Antares, 						M0.5Ia
+Spica, 						B1V C
+Pollux, 						K0IIIb
+Fomalhaut, 						A4V C
+Deneb, 						A2Ia C
+Mimosa, 						B1IV C
+Regulus, 						B8IVn
+Adhara, 						B1.5II
+Shaula, 						B2IV+D
+Castor, 						A1V+A2
+Gacrux, 						M3.5II
+Bellatrix, 						B2V C
+Elnath, 						B7III
+Miaplacidus, 						A1III-
+Alnilam, 						B0Ia C
